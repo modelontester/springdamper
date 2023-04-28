@@ -1,0 +1,19 @@
+{
+  "RotationalSpringDamper.SpringDamperModel" : [ {
+    "created" : "2023-04-28T06:15:00.117Z",
+    "lastModified" : "2023-04-28T06:15:00.117Z",
+    "name" : "Experiment 1",
+    "expressions" : [ ],
+    "model" : "RotationalSpringDamper.SpringDamperModel",
+    "settings" : {
+      "dynamic" : {
+        "stopTime" : 2.0
+      },
+      "steadyState" : { },
+      "custom" : { },
+      "simulationType" : "dynamic"
+    },
+    "filters" : [ ],
+    "isDefault" : true
+  } ]
+}

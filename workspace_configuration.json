@@ -1,0 +1,9 @@
+{
+    "impact_workspace": {
+        "format": 1.0,
+        "version": "1.2_build_2",
+        "name": "SpringDamper",
+        "description": ""
+    },
+    "modelica-path": []
+}
