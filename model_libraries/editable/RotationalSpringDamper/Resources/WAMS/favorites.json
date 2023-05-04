@@ -1,6 +1,7 @@
 {
   "version" : "2",
   "data" : {
-    "Workspace.SpringDamperModel" : { }
+    "Workspace.SpringDamperModel" : { },
+    "RotationalSpringDamper.SpringDamperModel" : { }
   }
 }
